@@ -1,16 +1,31 @@
-## Hi there 👋
+##  👋 Hi I am Michael
 
-<!--
-**MichaelMwanyigu/MichaelMwanyigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a proffessional Software and Machine learning engineer at Vodacom Tanzania.
 
-Here are some ideas to get you started:
+I Specialize in building realworld Software Applications and AI systems that solves problems for individuals and enteprises.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍ My AI Knowledge Domain
+✔ Machine Learning Fundamentals
+✔ Deep learning and Transformers
+✔ MLOps, Infrastructure and Frameworks
+✔ Optimization & Deployments
+✔ Real world AI Projects
+
+## ✍ My Software Knowledge Domain
+✔ Data structure and Algorithn
+✔ Clean Code
+✔ System Design
+✔ Backends
+✔ Frontends
+✔ Python, Go, Java, NodeJs and Javascript
+✔ Frameworks (React, Angular, Springboot, Django, FastAPI)
+
+## 🔧 Tools I Use
+Python, FastAPI, Scikit-learn, PyTorch, MLflow, GitHub Actions, Docker, Django, Go, Java Springboot
+
+## 📦 Projects Coming Soon
+- Spam Detector API
+- Enterprise Fraud Detector
+- African Micro-Logistics Optimizer
+- Distributed Key-value in memory database
+
